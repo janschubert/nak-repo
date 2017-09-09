@@ -1,6 +1,6 @@
 Gerd
 Ist
 Cool
-Gerd 123
+Gerd ist eine Pimmelnase.
 Gerd Gerdostan Gerdowitsch
 Was da los??
